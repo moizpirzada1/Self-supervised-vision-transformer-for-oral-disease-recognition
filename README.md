@@ -1,0 +1,1 @@
+# Self-supervised-vision-transformer-for-oral-disease-recognition
